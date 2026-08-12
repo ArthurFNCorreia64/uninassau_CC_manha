@@ -1,2 +1,2 @@
-Disciplina: Códigos Alta Perfomance
+Disciplina: Códigos Alta Perfomance Web
 Professor: Rafael
