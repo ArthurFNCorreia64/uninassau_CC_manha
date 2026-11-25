@@ -1,2 +1,5 @@
 .devcontainer
 .github
+.env
+.venv
+pessoal
